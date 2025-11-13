@@ -7,4 +7,4 @@ A simple 2d terrain generator using noise.
 - Visualisation.
 
 ## Live Demo
-[Click Here]()
+[Click Here](https://trnk7.github.io/2d-terrain-builder)
